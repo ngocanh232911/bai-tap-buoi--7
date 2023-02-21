@@ -1,0 +1,20 @@
+.product img {
+    max-width: 100%;
+    height: 200px;
+    width: 100%;
+    border-radius: 20px;
+}
+
+.product {
+
+    border-radius: 20px;
+    padding: 20px;
+    background-color: rgb(228, 171, 171);
+    color: #963d17;}
+.listproduct {
+        background-color: #d0d9ff;
+        display: grid;
+        grid-template-columns: repeat(4, 1fr);
+        grid-gap: 40px;
+    
+    }
